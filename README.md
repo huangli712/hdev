@@ -13,13 +13,13 @@ GNU General Public License Version 3
 ## Features
 
 * Shell scripts
-    * d\_arch.sh
-    * d\_sar.sh
-    * d\_trim.sh
+    * Create archive for repo branch (d\_arch.sh)
+    * Search and replace (d\_sar.sh)
+    * Get rid of trailing whitespaces (d\_trim.sh)
 
 * Python scripts
-    * d\_check.py
-    * d\_clean.py
+    * Check whether the lines are ended with blanks (d\_check.py)
+    * Remove the dull .DS\_Store files (d\_clean.py)
 
 ## Installation
 
