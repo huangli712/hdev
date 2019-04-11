@@ -1,4 +1,4 @@
-# hdev
+# HDEV
 
 In this project, some useful python and shell scripts are provided.
 
@@ -12,13 +12,18 @@ GNU General Public License Version 3
 
 ## Features
 
+* Shell scripts
+    * d\_arch.sh
+    * d\_sar.sh
+    * d\_trim.sh
+
+* Python scripts
+    * d\_check.py
+    * d\_clean.py
+
 ## Installation
 
-```sh
-$ cd flink/build
-$ editor make.sys
-$ make
-```
+N/A
 
 ## Documentation
 
@@ -26,7 +31,7 @@ See the comments in the source codes.
 
 ## Development
 
-The FLINK software package is developed and maintained by the FLINK Developer Team.
+The HDEV software package is developed and maintained by the HDEV Developer Team.
 
 Find a bug? Want to contribute? Want new features? Great! Please contact with us as soon as possible.
 
