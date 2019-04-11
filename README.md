@@ -1,6 +1,6 @@
 # hdev
 
-Some Useful Python and Shell Scripts.
+In this project, some useful python and shell scripts are provided.
 
 ## Version
 
