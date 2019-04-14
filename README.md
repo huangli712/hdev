@@ -4,7 +4,7 @@ In this project, some useful python and shell scripts are provided.
 
 ## Version
 
-v0.8.0 (devel)
+v0.1.0 (devel)
 
 ## License
 
