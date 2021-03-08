@@ -8,7 +8,8 @@
 ## It is a python script. The purpose of this script is to clean the dull
 ## .DS_Store files in the macOS system.
 ##
-## This script should be used by the developer only.
+## This script should be used by the developer only. It is only compatible
+## with Python 3.x.
 ##
 ## Usage
 ## =====
@@ -26,7 +27,7 @@
 ## =======
 ##
 ## 12/02/2014 by li huang (created)
-## 06/05/2017 by li huang (last modified)
+## 03/08/2021 by li huang (last modified)
 ##
 ##
 
@@ -44,5 +45,5 @@ else:
 for path, dirs, files in os.walk(scan_dir):
     for f in files:
         if f.endswith('DS_Store'):
-            print path + '/' + f
+            print(path + '/' + f)
             os.remove(path + '/' + f)
