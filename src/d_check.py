@@ -8,7 +8,8 @@
 ## It is a python script. The purpose of this script is to check whether
 ## the lines in a given file are ended with blanks.
 ##
-## This script should be used by the developer only.
+## This script should be used by the developer only. It is only compatible
+## with Python 3.x.
 ##
 ## Usage
 ## =====
@@ -26,7 +27,7 @@
 ## =======
 ##
 ## 11/13/2014 by li huang (created)
-## 07/26/2017 by li huang (last modified)
+## 03/08/2021 by li huang (last modified)
 ##
 ##
 
@@ -43,5 +44,5 @@ with open(argu[0], 'r') as f:
             break
         i = i + 1
         if len(line) != len(line.rstrip()) + 1:
-            print 'line number:', i
-            print '--->', line.rstrip()
+            print('line number:', i)
+            print('--->', line.rstrip())
