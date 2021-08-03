@@ -6,7 +6,7 @@
 
 * Shell scripts
     * Create archive for repo branch (d\_arch.sh)
-    * Fix @rpath (d\_rpath.sh)
+    * Fix @rpath problem (d\_rpath.sh)
     * Search and replace (d\_sar.sh)
     * Get rid of trailing whitespaces (d\_trim.sh)
 
