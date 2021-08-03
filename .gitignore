@@ -13,5 +13,4 @@
 *.optrpt
 *.dSYM
 .DS_Store
-fort.*
-test.f90
+docs/build
