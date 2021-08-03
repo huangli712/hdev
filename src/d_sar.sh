@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ##
+##
 ## Author
 ## ======
 ##
@@ -12,11 +13,11 @@
 ## =======
 ##
 ## 01/03/2015 by li huang (created)
-## 06/05/2017 by li huang (last modified)
+## 08/03/2021 by li huang (last modified)
 ##
 ##
 
-# please FIX 'AAA', 'aaa' and file_name in line 52
+# please FIX 'AAA', 'aaa' and file_name in line 28.
 for i in *
 do
     echo "current directory:"
