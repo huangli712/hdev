@@ -1,6 +1,6 @@
 ## Introduction
 
-It is a python script. The purpose of this script is to clean the dull `.DS_Store` files in the macOS system.
+It is a Python script. The purpose of this script is to clean the dull `.DS_Store` files in the macOS system.
 
 !!! note
 
