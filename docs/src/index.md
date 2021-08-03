@@ -1,7 +1,12 @@
+# hdev
+
+*A collection of useful shell scripts*
+
 ## Features
 
 * Shell scripts
     * Create archive for repo branch (d\_arch.sh)
+    * Fix @rpath (d\_rpath.sh)
     * Search and replace (d\_sar.sh)
     * Get rid of trailing whitespaces (d\_trim.sh)
 
@@ -9,21 +14,7 @@
     * Check whether the lines are ended with blanks (d\_check.py)
     * Remove the dull .DS\_Store files (d\_clean.py)
 
-## Installation
-
-N/A
-
-## Development
-
-The HDEV software package is developed and maintained by the HDEV Developer Team.
-
-Find a bug? Want to contribute? Want new features? Great! Please contact with us as soon as possible.
-
-## Reference
-
-N/A
-
-## Contact
+## Author
 
 ```sh
 Li Huang

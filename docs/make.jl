@@ -10,9 +10,13 @@ makedocs(
     ),
     pages = [
         "Home" => "index.md",
-        "Introduction" => "intro.md",
         "User's guide" => Any[
-            "Constants" => "guide/m_constants.md",
+            "d_arch.sh"  => "guide/arch.md",
+            "d_rpath.sh" => "guide/rpath.md",
+            "d_sar.sh"   => "guide/sar.md",
+            "d_trim.sh"  => "guide/trim.md",
+            "d_check.py" => "guide/check.md",
+            "d_clean.py" => "guide/clean.md",
         ],
     ],
 )
