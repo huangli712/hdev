@@ -5,7 +5,7 @@ It is a shell script. The purpose of this script is to create archive of files (
 The name of the output archive should like this:
 
 ```text
-    iqist_43e2cbb_1441276643.tar.gz
+iqist_43e2cbb_1441276643.tar.gz
 ```
 
 Here `43e2cbb` is the abbreviated commit hash, `1441276643` is the UNIX timestamp when this commit was committed, and `iqist` is the code name which is provided by the users.
