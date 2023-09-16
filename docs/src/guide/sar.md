@@ -12,7 +12,7 @@ It is a shell script. The purpose of this script is to scan a file or directory,
 $ ./d_sar.sh
 ```
 
-Before you start to use this shell script, you have to check and edit carefully the string match pattern.
+Before you start to use this shell script, you have to check and edit carefully the string match pattern (see **L28** in **d\_sar.sh**).
 
 For macOS system, the grammar for sed is (we don't generate backup)
 
