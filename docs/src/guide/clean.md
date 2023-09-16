@@ -6,6 +6,10 @@ It is a Python script. It is only compatible with Python 3.x. The purpose of thi
 
     This script should be used by the developer only.
 
+!!! info
+
+    It seems that the `.DS_Store` files only appear in the **macOS** system.
+
 ## Usage
 
 ```sh
