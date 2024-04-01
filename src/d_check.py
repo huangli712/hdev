@@ -7,13 +7,13 @@
 ##
 ## This python script is designed, created, and maintained by
 ##
-## Li Huang // email: lihuang.dmft@gmail.com
+## Li Huang // email: huangli@caep.cn
 ##
 ## History
 ## =======
 ##
 ## 11/13/2014 by li huang (created)
-## 08/03/2021 by li huang (last modified)
+## 04/01/2024 by li huang (last modified)
 ##
 ##
 
