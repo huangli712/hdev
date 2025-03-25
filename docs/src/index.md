@@ -1,6 +1,6 @@
 # hdev
 
-*A collection of useful shell scripts*
+*A collection of useful shell and python scripts*
 
 ## Features
 
