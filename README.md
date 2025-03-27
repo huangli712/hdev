@@ -12,4 +12,6 @@ GNU General Public License Version 3
 
 ## Documentation
 
-The reference guide is placed in the `docs` folder.
+Source: See `hdev/docs`.
+
+Online: https://huangli712.github.io/projects/hdev/index.html
