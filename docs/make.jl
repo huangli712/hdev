@@ -5,12 +5,13 @@ makedocs(
     clean = false,
     authors = "Li Huang <huangli@caep.cn> and contributors",
     format = Documenter.HTML(
-        inventory_version = "1.0.3",
         prettyurls = false,
         ansicolor = true,
         repolink = "https://github.com/huangli712/hdev",
         size_threshold = 409600, # 400kb
         assets = ["assets/hdev.css"],
+        collapselevel = 1,
+        inventory_version = "1.0.3",
     ),
     remotes = nothing,
     pages = [
