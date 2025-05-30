@@ -11,7 +11,6 @@ makedocs(
         size_threshold = 409600, # 400kb
         assets = ["assets/hdev.css"],
         collapselevel = 1,
-        inventory_version = "1.0.3",
     ),
     remotes = nothing,
     pages = [
