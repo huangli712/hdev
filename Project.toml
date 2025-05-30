@@ -1,0 +1,4 @@
+name = "hdev"
+uuid = "d2894baa-0b61-4369-bbf0-7706c1459e48"
+authors = ["Li Huang <huangli@caep.cn>"]
+version = "1.0.3"
