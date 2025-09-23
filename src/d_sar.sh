@@ -13,7 +13,7 @@
 ## =======
 ##
 ## 01/03/2015 by li huang (created)
-## 04/01/2024 by li huang (last modified)
+## 09/23/2025 by li huang (last modified)
 ##
 ##
 
@@ -25,7 +25,7 @@ do
     cd $i
     echo "job directory:"
     pwd
-    sed -i '' 's/AAA/aaa/g' file_name
+    sed -i 's/AAA/aaa/g' file_name
     echo ''
     cd ..
 done
