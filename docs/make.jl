@@ -1,8 +1,8 @@
 using Documenter
 
 makedocs(
-    sitename="hdev",
-    clean = false,
+    sitename="hdev: The User Guide",
+    clean = true,
     authors = "Li Huang <huangli@caep.cn> and contributors",
     format = Documenter.HTML(
         prettyurls = false,
@@ -12,16 +12,18 @@ makedocs(
         assets = ["assets/hdev.css"],
         collapselevel = 1,
     ),
+    #format = Documenter.LaTeX(platform = "none"),
     remotes = nothing,
+    modules = Module[],
     pages = [
-        "Home" => "index.md",
-        "User's Guide" => Any[
-            "d_arch.sh"  => "guide/arch.md",
-            "d_rpath.sh" => "guide/rpath.md",
-            "d_sar.sh"   => "guide/sar.md",
-            "d_trim.sh"  => "guide/trim.md",
-            "d_check.py" => "guide/check.md",
-            "d_clean.py" => "guide/clean.md",
+        "Welcome" => "index.md",
+        "Manual" => Any[
+            "d_arch.sh"  => "man/arch.md",
+            "d_rpath.sh" => "man/rpath.md",
+            "d_sar.sh"   => "man/sar.md",
+            "d_trim.sh"  => "man/trim.md",
+            "d_check.py" => "man/check.md",
+            "d_clean.py" => "man/clean.md",
         ],
     ],
 )
