@@ -8,7 +8,7 @@ It is a shell script. The purpose of this script is to fix the @rpath symbol in 
 
 ## Usage
 
-```sh
+```shell
 $ ./d_rpath.sh file_name
 ```
 

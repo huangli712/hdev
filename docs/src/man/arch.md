@@ -16,6 +16,6 @@ Here `43e2cbb` is the abbreviated commit hash, `1441276643` is the UNIX timestam
 
 ## Usage
 
-```sh
+```shell
 $ ./d_arch.sh code_name
 ```

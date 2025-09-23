@@ -1,6 +1,6 @@
 ## Introduction
 
-It is a shell script. The purpose of this script is to scan a file or directory, and then replace some characters with given characters. So we name it as `sar.sh` (Scan And Replace). We can use it to preprocess many `atom.config.in` or `solver.ctqmc.in` files at the same time.
+It is a shell script. The purpose of this script is to scan a file or directory, and then replace some characters with given characters. So we name it as `d_sar.sh` (Scan And Replace). We can use it to preprocess many `atom.config.in` or `solver.ctqmc.in` files at the same time.
 
 !!! note
 
@@ -8,7 +8,7 @@ It is a shell script. The purpose of this script is to scan a file or directory,
 
 ## Usage
 
-```sh
+```shell
 $ ./d_sar.sh
 ```
 

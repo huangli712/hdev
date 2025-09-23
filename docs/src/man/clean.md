@@ -12,6 +12,6 @@ It is a Python script. It is only compatible with Python 3.x. The purpose of thi
 
 ## Usage
 
-```sh
+```shell
 $ ./d_clean.py directory_name
 ```

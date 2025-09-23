@@ -8,7 +8,7 @@ It is a shell script. The purpose of this script is to remove the trailing white
 
 ## Usage
 
-```sh
+```shell
 $ ./d_trim.sh file_name
 ```
 
