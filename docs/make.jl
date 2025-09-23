@@ -17,7 +17,9 @@ makedocs(
     modules = Module[],
     pages = [
         "Welcome" => "index.md",
-        "Introduction" => "intro.md",
+        "Introduction" => Any[
+            "About hdev" => "intro.md",
+        ],
         "Manual" => Any[
             "d_arch.sh"  => "man/arch.md",
             "d_rpath.sh" => "man/rpath.md",
