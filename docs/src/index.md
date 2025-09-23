@@ -11,23 +11,3 @@
 !!! warning
 
     The ACFlow toolkit is in heavy development. Please use it at your own risk. If you encounter any bugs or troubles, or require new features, please consult me directly: **huangli at caep.cn**
-
-## Features
-
-* Shell scripts
-    * Create archive for repo branch (**d\_arch.sh**)
-    * Fix @rpath problem (**d\_rpath.sh**)
-    * Search and replace (**d\_sar.sh**)
-    * Get rid of trailing whitespaces (**d\_trim.sh**)
-
-* Python scripts
-    * Check whether the lines are ended with blanks (**d\_check.py**)
-    * Remove the dull .DS\_Store files (**d\_clean.py**)
-
-## Author
-
-```sh
-Li Huang
-Institute of Materials, China Academy of Engineering Physics, Sichuan Jiangyou, PRC
-email: huangli at caep.cn
-```
