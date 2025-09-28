@@ -1,4 +1,6 @@
-**hdev**: *A collection of useful shell and python scripts*
+# hdev
+
+*A collection of useful shell and python scripts*
 
 !!! info
 
